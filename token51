@@ -1,0 +1,1 @@
+kubeadm join 192.168.211.68:6443 --token bumblo.jb9nf88k5752apdk --discovery-token-ca-cert-hash sha256:0e7a8a86c2238b47e8d2cda727193d6e5b10f8c10245248011631f91343158c6 
